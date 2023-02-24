@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkySys</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2t5ZHJvbmVzIiwiYSI6ImNsMW5vZ2RhbDA0MmMzY3FwZ2FlemgxeGwifQ.DcjzynRArkQfOVewBB0DCg</string>
+    <string name="lancar">Lançar</string>>
+</resources>
